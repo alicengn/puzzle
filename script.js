@@ -1,4 +1,4 @@
-var randomNum = Math.floor(Math.random() * 5+1);
+var randomNum = Math.floor(Math.random() * 15+1);
 
 var images = ['img'+randomNum+'.jpeg'];
 var currentIndex = 0;
